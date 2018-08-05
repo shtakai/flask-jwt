@@ -1,6 +1,10 @@
 Flask-JWT
 ==============
 
+.. image:: https://badges.production.guardrails.io/shtakai/flask-jwt.svg
+   :alt: GuardRails badge
+   :target: https://www.guardrails.io
+
 .. image:: https://img.shields.io/travis/mattupstate/flask-jwt.svg
     :target: https://travis-ci.org/mattupstate/flask-jwt
     :alt: Latest Build
